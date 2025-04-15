@@ -2,4 +2,4 @@
 
 This repository contains my learnings from the AI Hero courses.
 
-Oficial website: [AI Hero](https://aihero.ai/)
+Website: [AI Hero](https://aihero.ai/)
